@@ -118,7 +118,7 @@ interactive-business-dashboard/
 │   ├── filters.py
 │   ├── metrics.py
 │   ├── charts.py
-└── assets/
+└── screenshots/
     ├── BusinessInsight.png
     ├── Filtered.png
     ├── Monthlysales.png
