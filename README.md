@@ -5,8 +5,7 @@
 ### Streamlit + Plotly | Business Intelligence Analytics Dashboard
 
 ![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)
-![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+[![Live Demo](https://img.shields.io/badge/Live%20App-Open%20Dashboard-brightgreen?logo=streamlit)](https://your-app-name.streamlit.app)![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff4b4b)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458)
 ![Plotly](https://img.shields.io/badge/Plotly-Visualization-3f4f75)
@@ -192,7 +191,7 @@ Planned deployment options:
 
 Live link will be added here once deployed:
 
-👉 **Live Demo:** *Coming Soon*
+👉 **Live Demo:[Live Streamlit App](https://muhammadshayan8401-interactive-business-dashboard-app-sj2opj.streamlit.app/)
 
 ---
 
