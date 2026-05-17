@@ -1,5 +1,3 @@
-<div align="center">
-
 # 📊 Interactive Business Dashboard
 
 ### Streamlit + Plotly | Business Intelligence Analytics Dashboard
@@ -12,14 +10,6 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-</div>
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff4b4b)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458)
-![Plotly](https://img.shields.io/badge/Plotly-Visualization-3f4f75)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 An interactive **Business Intelligence (BI) dashboard** built using **Streamlit**, **Pandas**, and **Plotly** to analyze sales, profit, and customer performance using the **Global Superstore Dataset**.
 
