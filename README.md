@@ -171,15 +171,11 @@ This dashboard provides insights such as:
 
 ## 🌐 Deployment
 
-🚧 **Deployment Status:** Not deployed yet
+🚧 **Deployment Status:** Deployed
 
 Planned deployment options:
 
 * Streamlit Community Cloud
-* Render / HuggingFace Spaces
-* Docker-based deployment
-
-Live link will be added here once deployed:
 
 👉 **Live Demo:[Live Streamlit App](https://muhammadshayan8401-interactive-business-dashboard-app-sj2opj.streamlit.app/)
 
@@ -197,5 +193,4 @@ GitHub: [https://github.com/MuhammadShayan8401](https://github.com/MuhammadShaya
 * Add predictive analytics (sales forecasting)
 * Add dark/light mode toggle
 * Improve UI with advanced CSS styling
-* Deploy live dashboard
 * Add PDF report export feature
